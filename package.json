@@ -1,8 +1,7 @@
 {
-"name": "github-action-practice"
-"version": "1.0.0"
-  "scripts": {
-    "greet": "echo Hello from Node Script!"
-  
-}
+    "name": "github-action-practice",
+    "version": "1.0.0",
+    "scripts": {
+        "greet": "echo Hello from Node Script!"
+    }
 }
